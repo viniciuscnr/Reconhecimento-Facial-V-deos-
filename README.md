@@ -11,8 +11,8 @@
 #### No menu direito, onde se encontram os packages, selecione na aba de visualização os "não instalados" e pesquise pelas bibliotecas "tensorflow" e "mtcnn" e as instale.
 ##### OBS: Caso não encontre a biblioteca mtcnn, abra o anaconda prompt e digite os seguintes comandos:
 ```
-$ conda activate (nome do ambiente que você criou)
-$ pip install mtcnn
+conda activate (nome do ambiente que você criou)
+pip install mtcnn
 ```
 ### **2° Passo - organizando os códigos e arquivos**
 
