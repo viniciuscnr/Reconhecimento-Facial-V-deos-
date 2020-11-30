@@ -2,6 +2,7 @@
 ## Reconhecimento facial em vídeos utilizando Python em um ambiente Anaconda
 
 ##### OBS: Esse passo a passo considera que a instalação do Anaconda Navigator já tenha sido realizada com antecedência.
+##### OBS²: Alguns arquivos são muito grandes para serem diponibilizados pelo diretorio do Github, portanto, os deixarei nesse link do Google Drive: https://drive.google.com/drive/folders/1FDZkf9O523SRSxNM5AZAEL35Y5BYZElp?usp=sharing
 
 ### **1° Passo - preparando o ambiente**
 
@@ -15,7 +16,7 @@ $ pip install mtcnn
 ```
 ### **2° Passo - organizando os códigos e arquivos**
 
-#### Instale os arquivos deste diretório em uma pasta específica, de preferência com o mesmo nome do ambiente que criou no Anaconda;
+#### Instale os arquivos do link do Google Drive em uma pasta específica, de preferência com o mesmo nome do ambiente que criou no Anaconda;
 #### Adicione a essa pasta um vídeo que contenha um rosto com ou sem máscara;
 #### Voltando para a seção "Home" do Anaconda, selecione um aplicativo para utilizar no ambiente (recomendo o Visual Studio Code, que é no qual me baseio nos passos a seguir);
 #### Dentro do aplicativo, abra a pasta com os arquivos baixados;
