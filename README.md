@@ -15,6 +15,13 @@ $ pip install mtcnn
 ```
 ### **2° Passo - organizando os códigos e arquivos**
 
-#### Instale os códigos deste diretório em uma pasta específica, de preferência com o mesmo nome do ambeinte que criou no Anaconda;
+#### Instale os arquivos deste diretório em uma pasta específica, de preferência com o mesmo nome do ambiente que criou no Anaconda;
+#### Adicione a essa pasta um vídeo que contenha um rosto com ou sem máscara;
 #### Voltando para a seção "Home" do Anaconda, selecione um aplicativo para utilizar no ambiente (recomendo o Visual Studio Code, que é no qual me baseio nos passos a seguir);
-#### Dentro do aplicativo, abra a pasta com os arquivos baixados 
+#### Dentro do aplicativo, abra a pasta com os arquivos baixados;
+
+### **3° Passo - ajustando e executando o código
+#### Abra o arquivo codigo.py;
+#### Na linha 9, digite o caminho do arquivo detector.h5 utilizando barras inclinadas para a direita ao invés da esquerda (Essa:/);
+#### Na linha 10, digite o nome do video que colocou na pasta;
+#### Finalmente, execute o código;
